@@ -1,0 +1,13 @@
+C:\Users\ale\Desktop\Senai\Aula23ListaDeObjetos\bin\Debug\netcoreapp3.1\Aula23ListaDeObjetos.exe
+C:\Users\ale\Desktop\Senai\Aula23ListaDeObjetos\bin\Debug\netcoreapp3.1\Aula23ListaDeObjetos.deps.json
+C:\Users\ale\Desktop\Senai\Aula23ListaDeObjetos\bin\Debug\netcoreapp3.1\Aula23ListaDeObjetos.runtimeconfig.json
+C:\Users\ale\Desktop\Senai\Aula23ListaDeObjetos\bin\Debug\netcoreapp3.1\Aula23ListaDeObjetos.runtimeconfig.dev.json
+C:\Users\ale\Desktop\Senai\Aula23ListaDeObjetos\bin\Debug\netcoreapp3.1\Aula23ListaDeObjetos.dll
+C:\Users\ale\Desktop\Senai\Aula23ListaDeObjetos\bin\Debug\netcoreapp3.1\Aula23ListaDeObjetos.pdb
+C:\Users\ale\Desktop\Senai\Aula23ListaDeObjetos\obj\Debug\netcoreapp3.1\Aula23ListaDeObjetos.csprojAssemblyReference.cache
+C:\Users\ale\Desktop\Senai\Aula23ListaDeObjetos\obj\Debug\netcoreapp3.1\Aula23ListaDeObjetos.AssemblyInfoInputs.cache
+C:\Users\ale\Desktop\Senai\Aula23ListaDeObjetos\obj\Debug\netcoreapp3.1\Aula23ListaDeObjetos.AssemblyInfo.cs
+C:\Users\ale\Desktop\Senai\Aula23ListaDeObjetos\obj\Debug\netcoreapp3.1\Aula23ListaDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\ale\Desktop\Senai\Aula23ListaDeObjetos\obj\Debug\netcoreapp3.1\Aula23ListaDeObjetos.dll
+C:\Users\ale\Desktop\Senai\Aula23ListaDeObjetos\obj\Debug\netcoreapp3.1\Aula23ListaDeObjetos.pdb
+C:\Users\ale\Desktop\Senai\Aula23ListaDeObjetos\obj\Debug\netcoreapp3.1\Aula23ListaDeObjetos.genruntimeconfig.cache
